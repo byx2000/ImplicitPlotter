@@ -22,7 +22,7 @@ Options:
   --ymax <ymax>                        The maximum value of y. [default: 10]
   --drawColor <drawColor>              Plotting color. [default: #C80078D7]
   --backgroundColor <backgroundColor>  Image background color. [default: #FFFFFFFF]
-  --timeout <timeout>                  Draw timeout (seconds). [default: 10000]
+  --timeout <timeout>                  Draw timeout (milliseconds). [default: 10000]
 ```
 
 ## Example

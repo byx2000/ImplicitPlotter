@@ -59,7 +59,7 @@ namespace ImplicitPlotter
             };
             Option<int> timeoutOption = new Option<int>("--timeout")
             {
-                Description = "Draw timeout (seconds).",
+                Description = "Draw timeout (milliseconds).",
                 DefaultValueFactory = _ => 10000
             };
 
