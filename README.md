@@ -1,6 +1,6 @@
 # ImplicitPlotter
 
-ImplicitPlotter is a command-line tool that can plot images of any binary implicit function equation or inequality, supporting both Cartesian and polar coordinates.
+ImplicitPlotter is a command-line tool that can plot graph of any binary implicit function equation or inequality, supporting both Cartesian and polar coordinates.
 
 The plotting algorithm is based on [interval arithmetic](https://www.dgp.toronto.edu/public_user/mooncake/papers/SIGGRAPH2001_Tupper.pdf).
 
